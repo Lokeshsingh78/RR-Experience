@@ -233,7 +233,7 @@ This project is available for personal and educational use. Please respect intel
 
 **Made with ❤️ and attention to detail**
 
-[⬆ Back to Top]([#-rr-experience](https://github.com/Lokeshsingh78/RR-Experience))
+[⬆ Back to Top](https://github.com/Lokeshsingh78/RR-Experience)
 
 </div>
 
